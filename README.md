@@ -1,7 +1,7 @@
-# ESPIDAM-2026---Networks-and-Contact-Patterns-in-Infectious-Disease-Models
+# ESPIDAM 2026 – Networks and Contact Patterns in Infectious Disease Models
 Code for *Practical on the Use and Analysis of Mobility Data* and *Practical on Modeling Spatial Transmission*
 
-## Getting Started
+
 We will use Python with notebooks for interactive coding. Here's a quick setup guide:
 
 **Option 1 (Install Jupyter Lab)**  
@@ -40,7 +40,7 @@ The notebooks will be available at:
 The mobility data utilized in this tutorial has been sourced from:  
 Kang, Y., Gao, S., Liang, Y., Li, M., Rao, J., and Kruse, J. Multiscale dynamic human mobility flow dataset in the U.S. during the COVID-19 epidemic. *Scientific Data*, 7, 390 (2020).  
 [https://www.nature.com/articles/s41597-020-00734-5](https://rdcu.be/cd2Fd)  
-Download the data from [GitHub](https://github.com/GeoDS/COVID19USFlows).
+Link to the data: [GitHub](https://github.com/GeoDS/COVID19USFlows).
 
 ## License
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.  
