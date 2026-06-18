@@ -15,17 +15,25 @@ We will use Python with notebooks for interactive coding. Here's a quick setup g
 You can run the notebooks directly in your browser using Google Colab. 
 To test it:  
 1)  Open: https://drive.google.com/file/d/10_K4Jp0o2yOrQ0lXyIyARuT8_pBSrKkq/view?usp=sharing  
-2) Sign in to your Google account if you haven’t already 
+2) Sign in to your Google account if you haven’t already **(don’t forget this step!)**
 3) Click "*Open in Colab*" at the top  
 4) Go to *File > Save a copy in Drive* to make your own editable version  
 5) Run the code cells and try editing the notebook
-Acces the notebooks at:  
-- Lab 1 Part 1 solution: https://drive.google.com/file/d/1b9YUTSBWwRW9nk1IN_MUEnxORu-9z2I7/view?usp=sharing
-- Lab 2 Part 2 solution: https://drive.google.com/file/d/1-EX3aAqNYSj5pbjNUbT_vMSGRQGfQwph/view?usp=sharing
-- Lab 2 Part 1: https://drive.google.com/file/d/1j86yZLBwr6qt0klb6y0Q64_hNouzjbpy/view?usp=sharing
-- Lab 2 Part 2: https://drive.google.com/file/d/1e6ZyuD1iwQPfrI8zLi853NPIxReD5zVx/view?usp=sharing
-- Lab 2 Part 1 solution: https://drive.google.com/file/d/1uzqTXvIUyEWYlCRDKfdb7XfqYzkXv8Gz/view?usp=sharing
-- Lab 2 Part 2 solution: https://drive.google.com/file/d/11fYpj8fPAYefOWqNE5V90o8iigghrF2M/view?usp=sharing
+
+
+The notebooks will be available at:
+- Lab 1 Part 1:
+- Lab 1 Part 1 (solutions):
+
+- Lab 2 Part 2: 
+- Lab 2 Part 2 (solutions):
+  
+- Lab 2 Part 1:
+- Lab 2 Part 1 (solutions):
+- 
+- Lab 2 Part 2:
+- Lab 2 Part 2 (solution):
+
 
 
 ## Acknowledgements
