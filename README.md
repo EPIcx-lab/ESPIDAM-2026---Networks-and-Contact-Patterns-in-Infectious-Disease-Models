@@ -1,4 +1,4 @@
-# ESPIDAM-2025---Networks-and-Contact-Patterns-in-Infectious-Disease-Models
+# ESPIDAM-2026---Networks-and-Contact-Patterns-in-Infectious-Disease-Models
 Code for *Practical on the Use and Analysis of Mobility Data* and *Practical on Modeling Spatial Transmission*
 
 ## Getting Started
