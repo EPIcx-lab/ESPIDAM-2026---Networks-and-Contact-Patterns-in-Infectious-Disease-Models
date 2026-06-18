@@ -30,7 +30,7 @@ The notebooks will be available at:
   
 - Lab 2 Part 1:
 - Lab 2 Part 1 (solutions):
-- 
+  
 - Lab 2 Part 2:
 - Lab 2 Part 2 (solution):
 
