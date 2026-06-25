@@ -22,17 +22,13 @@ To test it:
 
 
 The notebooks will be available at:
-- Lab 1 Part 1:
-- Lab 1 Part 1 (solutions):
+- Lab 1 Part 1: https://drive.google.com/file/d/13xE8OsYsHiaNLakvDQPQLn3dvkMFUKDV/view?usp=share_link
 
-- Lab 2 Part 2: 
-- Lab 2 Part 2 (solutions):
+- Lab 2 Part 2: https://drive.google.com/file/d/1G3xkjFycnrBCyVFBRTPfzw19duy1NIVn/view?usp=share_link
   
 - Lab 2 Part 1:
-- Lab 2 Part 1 (solutions):
   
 - Lab 2 Part 2:
-- Lab 2 Part 2 (solution):
 
 
 
