@@ -26,9 +26,9 @@ The notebooks will be available at:
 
 - Lab 2 Part 2: https://drive.google.com/file/d/1G3xkjFycnrBCyVFBRTPfzw19duy1NIVn/view?usp=share_link
   
-- Lab 2 Part 1:
+- Lab 2 Part 1: https://drive.google.com/file/d/1ihW4pNNx6KsG4Yu88zI-78gGSbP2y2o6/view?usp=share_link
   
-- Lab 2 Part 2:
+- Lab 2 Part 2: https://drive.google.com/file/d/1TXj30POBfaxmW1crzzFxGtpMyWshyzJe/view?usp=sharing
 
 
 
